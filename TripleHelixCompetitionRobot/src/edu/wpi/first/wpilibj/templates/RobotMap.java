@@ -24,7 +24,7 @@ public class RobotMap {
     public static final int highGearChannel = 3;
     public static final int lowGearChannel = 4;
     
-    public static final int compressorSpike = 3;
+    public static final int compressorSpike = 1;
     public static final int compressorSwitch = 1;
     
     public static final double maxTurn = 0.5;
